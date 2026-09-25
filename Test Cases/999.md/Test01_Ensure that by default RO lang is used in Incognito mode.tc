@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test01_Ensure that by default RO lang is used in Incognito mode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74a204b0-7ee7-4ffa-bcb6-f8ddeb084b0b</testCaseGuid>
+</TestCaseEntity>
