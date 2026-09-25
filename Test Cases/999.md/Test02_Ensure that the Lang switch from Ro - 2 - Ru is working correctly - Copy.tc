@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test02_Ensure that the Lang switch from Ro - 2 - Ru is working correctly - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e58961d-6b4a-4c27-aae8-876d841f8435</testCaseGuid>
+</TestCaseEntity>
